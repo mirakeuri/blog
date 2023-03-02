@@ -1,12 +1,12 @@
 const siteMetadata = {
-  title: 'Next.js Starter Blog',
-  author: 'Tails Azimuth',
-  headerTitle: 'TailwindBlog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  title: 'Miracle Story',
+  author: 'mirakeuri',
+  headerTitle: 'Miracle Story',
+  description: "Found you! I'm an miracle",
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
-  siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
+  siteUrl: 'https://mirakeuri.vercel.app',
+  siteRepo: 'https://github.com/mirakeuri/mirakeuri',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/twitter-card.png',
@@ -14,7 +14,7 @@ const siteMetadata = {
   github: 'https://github.com',
   twitter: 'https://twitter.com/Twitter',
   facebook: 'https://facebook.com',
-  youtube: 'https://youtube.com',
+  youtube: 'https://youtube.com/@binbang',
   linkedin: 'https://www.linkedin.com',
   locale: 'en-US',
   analytics: {
