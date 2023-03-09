@@ -2,7 +2,7 @@ const siteMetadata = {
   title: 'Miracle Story',
   author: 'mirakeuri',
   headerTitle: 'Miracle Story',
-  description: "Found you! I'm an miracle",
+  description: 'Found you! mirakeuri here...',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://mirakeuri.vercel.app',

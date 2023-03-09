@@ -36,7 +36,13 @@ const LayoutWrapper = ({ children }) => {
                   href={link.href}
                   className="p-1 font-medium text-gray-900 dark:text-gray-100 sm:p-4"
                 >
-                  {link.title}
+                  {link.type == 'button' ? (
+                    <button className="bg-fuchsia-800 px-2 py-1 rounded-md text-white font-semibold">
+                      {link.title}
+                    </button>
+                  ) : (
+                    <>{link.title}</>
+                  )}
                 </Link>
               ))}
             </div>
